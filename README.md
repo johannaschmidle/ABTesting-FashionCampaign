@@ -5,12 +5,12 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 #### Campaign Details:
 - **Control Campaign:** The control campaign focused on traditional display ads featuring static images of their latest clothing collection.
 - **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.
-
+**Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
+  
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
 **Primary Objective:** Determine if there is a significant difference in the number of purchases between different campaigns.  
 **Secondary Objectives:** Assess the impact of the campaigns on other metrics such as Website Clicks, Reach, and Add to Cart.  
-**Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
 
 ## Task List
 1. Clean Data
