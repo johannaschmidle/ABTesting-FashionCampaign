@@ -42,10 +42,10 @@ Interactive Tableau dashboard can be found [here]("").
 - The Test Campaign has the most sales
 - Recommended for the Test Campaign to spend more, and the Control Campaign to spend less.
 #### Mann-Whitney U Test/ Two-Sample T-Test
-- Purchase: The Test and Control campaigns have no significant difference in Purchase rates.
-- WebsiteClicks: There is no significant difference in WebsiteClicks rates between Test and Control.
-- Reach: The difference in Reach rates between the Test and Control is statistically significant.
-- AddtoCart: The difference in AddtoCart rates between Test and Control is statistically significant.
+- **Purchase:** The Test and Control campaigns have no significant difference in Purchase rates.
+- **WebsiteClicks:** There is no significant difference in WebsiteClicks rates between Test and Control.
+- **Reach:** The difference in Reach rates between the Test and Control is statistically significant.
+- **AddtoCart:** The difference in AddtoCart rates between Test and Control is statistically significant.
 #### Pairwise Tests
 - **Purchase:** there is no meaningful difference in the Purchase rates between the Control and Test campaigns
 - **WebsiteClicks:** the Test campaign does not lead to a statistically significant difference in WebsiteClicks compared to the Control campaign
