@@ -11,7 +11,7 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 <p align="center">
     <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
 </p>
-Interactive Tableau dashboard can be found [here]("").
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1).
 
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
@@ -19,10 +19,11 @@ Interactive Tableau dashboard can be found [here]("").
 **Secondary Objectives:** Assess the impact of the campaigns on other metrics such as Website Clicks, Reach, and Add to Cart.  
 
 ## Task List
-1. Clean Data
-2. Visualize Data
-3. Statistical Tests + Hypothesis Testing (Mann-Whitney U Test/ Two-Sample T-Test, Pairwise Tests)
-4. Create Dashboard
+1. Clean Data (_Cleaned table:_ [CatCouchReviewTable.csv](https://github.com/johannaschmidle/Amazon-Cat-Couch/blob/main/CatCouchReviewTable.csv))
+2. Visualize Data ([ab-testing-project.ipynb](https://github.com/johannaschmidle/ABTesting-FashionCampaign/blob/main/ab-testing-project.ipynb))
+3. Statistical Tests + Hypothesis Testing (same file as above)
+   - (Mann-Whitney U Test/ Two-Sample T-Test, Pairwise Tests) 
+4. Create Dashboard ([Tableau Dashboard](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1))
    
 ## Metrics and Dimensions
 - Number of purchases
@@ -63,14 +64,13 @@ Interactive Tableau dashboard can be found [here]("").
 - **Control Campaign:** Although the Control Campaign effectively reaches a broader audience, this does not result in higher Add to Cart or Purchase rates. The campaign is more cost-effective, indicated by a higher ROI and Conversion Rate.
 - **Test Campaign:** The Test Campaign is more effective in converting viewers to customers, as seen in the strong correlation between Add to Cart and Purchase rates. The Test Campaign also has a higher CTR, indicating more engaged viewers.
 - **Reach and Add to Cart:** Both metrics show statistically significant differences favoring the Test Campaign.
-Purchase and Website Clicks: No significant differences between campaigns.
+- **Purchase and Website Clicks:** No significant differences between campaigns.
 - The return on the advertisement spend is higher in the Control Campaign than the Test campaign
 
 ### Recommendations For Company
 - Continue with the original advertising strategy. Continuously experiment and perform A/B testing to refine and identify the most effective.
 - Focus on more targeted advertising strategies, similar to those used in the Test Campaign, to improve conversion rates.
 - Ensure that advertisements align well with what customers are searching for, as evidenced by the strong correlation between Searches and View Content.
-
 
 ## Recommended Next Analysis Steps 
 - **Regression Analysis:** Construct a polynomial regression model to predict the number of Impressions, Website Clicks, and Purchases. This can be used to identify optimum levels of expenditure on the Control and Test campaign. 
