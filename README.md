@@ -34,7 +34,7 @@ Interactive Tableau dashboard can be found [here]("").
 - Click-Through Rate (CTR)
 - Conversion Rate
 
-## Summary of Insights
+## Summary of Findings
 #### From Visualizations
 - The control campaign reaches a broader audience, but that does not result in more people adding to cart. The test campaign seems to be more focused, resulting in a stronger correlation between Add to Cart and Purchase.
 - The advertisement seems to match what customers are searching for (this is inferred from the strong correlation between views, website clicks, add to cart)
