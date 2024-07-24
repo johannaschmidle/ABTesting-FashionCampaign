@@ -1,7 +1,7 @@
 # ABTesting-FashionCampaign
-Using a dataset I found that was created to practice skills in AB Testing, I have created a backstory to the company I will be running an analysis for.  
+To practice skills in A/B testing, I utilized a dataset designed for this purpose and created a fictional backstory for the company I will analyze.
 **E-Commerce Fashion Brand - ChicBeads**  
-ChicBeads, a sister store to a popular online fashion retailer known for its trendy and affordable clothing, is a company that creates colorful beaded jewelry that goes with many of the outfits sold at its sister store. The accessories are sold for $5.00 (USD) each. The company has been doing fairly well for themselves but decided to optimize its advertising strategies to increase online sales. To do this, they launched an A/B testing campaign to determine the most effective way to reach and convert their target audience.
+ChicBeads, a sister store to a popular online fashion retailer known for its trendy and affordable clothing, specializes in creating colorful beaded jewelry that complements many of the outfits sold at its sister store. Each accessory is sold for $5.00 (USD). The company has been performing well but decided to optimize its advertising strategies to boost online sales. To achieve this, they launched an A/B testing campaign to identify the most effective ways to reach and convert their target audience.
 #### Campaign Details:
 - **Control Campaign:** The control campaign focused on traditional display ads featuring static images of their latest clothing collection.
 - **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.
