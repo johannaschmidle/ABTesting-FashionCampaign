@@ -14,7 +14,7 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 **Secondary Objectives:** Assess the impact of the campaigns on other metrics such as Website Clicks, Reach, and Add to Cart.  
 
 <p align="center">
-    <img src="" alt="Dashboard" width="900">
+    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
 </p>
 
 ## Task List
@@ -58,10 +58,20 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 - The Test and Control campaigns have no significant difference in ROI rates.
 - There is no significant difference in Conversion Rate rates between the Test and Control campaigns
 - There is a statistically significant difference in CTR rates between the Test and Control campaigns
-### Recommendations For Company
-- 
+#### Overall 
+- **Control Campaign:** Although the Control Campaign effectively reaches a broader audience, this does not result in higher Add to Cart or Purchase rates. The campaign is more cost-effective, indicated by a higher ROI and Conversion Rate.
+- **Test Campaign:** The Test Campaign is more effective in converting viewers to customers, as seen in the strong correlation between Add to Cart and Purchase rates. The Test Campaign also has a higher CTR, indicating more engaged viewers.
+- **Reach and Add to Cart:** Both metrics show statistically significant differences favoring the Test Campaign.
+Purchase and Website Clicks: No significant differences between campaigns.
+- The return on the advertisement spend is higher in the Control Campaign than the Test campaign
 
-## Recommended Next Steps 
+### Recommendations For Company
+- Continue with the original advertising strategy. Continuously experiment and perform A/B testing to refine and identify the most effective.
+- Focus on more targeted advertising strategies, similar to those used in the Test Campaign, to improve conversion rates.
+- Ensure that advertisements align well with what customers are searching for, as evidenced by the strong correlation between Searches and View Content.
+
+
+## Recommended Next Analysis Steps 
 - **Regression Analysis:** Construct a polynomial regression model to predict the number of Impressions, Website Clicks, and Purchases. This can be used to identify optimum levels of expenditure on the Control and Test campaign. 
 - **Trend Analysis:** Conduct a time series analysis to understand how campaign performance changes over time and identify any seasonal trends.
 - **Segmentation Analysis:** Break down the results by demographic segments (e.g., age, gender, location) to understand which segments respond better to each campaign.
