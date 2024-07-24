@@ -4,7 +4,7 @@ To practice skills in A/B testing, I utilized a dataset designed for this purpos
 ChicBeads, a sister store to a popular online fashion retailer known for its trendy and affordable clothing, specializes in creating colorful beaded jewelry that complements many of the outfits sold at its sister store. Each accessory is sold for $5.00 (USD). The company has been performing well but decided to optimize its advertising strategies to boost online sales. To achieve this, they launched an A/B testing campaign to identify the most effective ways to reach and convert their target audience.
 #### Campaign Details:
 - **Control Campaign:** The control campaign focused on traditional display ads featuring static images of their latest clothing collection.
-- **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.  
+- **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.<br />
 **Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
   
 ## Motivation
