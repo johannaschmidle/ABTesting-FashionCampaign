@@ -1,6 +1,6 @@
-# A/ Testing Fashion Campaign
+# A/B Testing for E-Commerce Fashion Brand
 To practice skills in A/B testing, I utilized a dataset designed for this purpose and created a fictional backstory for the company I will analyze.
-### E-Commerce Fashion Brand - ChicBeads
+### ChicBeads
 ChicBeads, a sister store to a popular online fashion retailer known for its trendy and affordable clothing, specializes in creating colorful beaded jewelry that complements many of the outfits sold at its sister store. Each accessory is sold for $5.00 (USD). The company has been performing well but decided to optimize its advertising strategies to boost online sales. To achieve this, they launched an A/B testing campaign to identify the most effective ways to reach and convert their target audience.
 #### Campaign Details:
 - **Control Campaign:** The control campaign focused on traditional display ads featuring static images of their latest clothing collection.
