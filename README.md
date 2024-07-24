@@ -7,11 +7,15 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 - **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.
   
 **Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
-  
+
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
 **Primary Objective:** Determine if there is a significant difference in the number of purchases between different campaigns.  
 **Secondary Objectives:** Assess the impact of the campaigns on other metrics such as Website Clicks, Reach, and Add to Cart.  
+
+<p align="center">
+    <img src="" alt="Dashboard" width="900">
+</p>
 
 ## Task List
 1. Clean Data
@@ -19,10 +23,6 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 3. Statistical Tests + Hypothesis Testing (Mann-Whitney U Test/ Two-Sample T-Test, Pairwise Tests)
 4. Create Dashboard
    
-<p align="center">
-    <img src="" alt="Dashboard" width="900">
-</p>
-
 ## Metrics and Dimensions
 - Number of purchases
 - AddtoCart
