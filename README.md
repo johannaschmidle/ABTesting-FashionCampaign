@@ -11,8 +11,9 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 <p align="center">
     <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
 </p>
-Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1).
-
+Interactive Tableau dashboard can be found 
+[here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1).
+[here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1)
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
 **Primary Objective:** Determine if there is a significant difference in the number of purchases between different campaigns.  
