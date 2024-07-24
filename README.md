@@ -8,14 +8,15 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
   
 **Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
 
+<p align="center">
+    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
+</p>
+Interactive Tableau dashboard can be found [here]("").
+
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
 **Primary Objective:** Determine if there is a significant difference in the number of purchases between different campaigns.  
 **Secondary Objectives:** Assess the impact of the campaigns on other metrics such as Website Clicks, Reach, and Add to Cart.  
-
-<p align="center">
-    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
-</p>
 
 ## Task List
 1. Clean Data
