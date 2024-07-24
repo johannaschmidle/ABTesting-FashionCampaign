@@ -67,8 +67,7 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 - **Segmentation Analysis:** Break down the results by demographic segments (e.g., age, gender, location) to understand which segments respond better to each campaign.
   
 ## Data
-The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/NUFORC/ufo-sightings](https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset)
-
+The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset](https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset)
 ## Technologies
 - Python (numpy, pandas matplotlib, seaborn, scipy, pingouin)
 - Tableau
