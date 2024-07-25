@@ -3,7 +3,7 @@
     <img src="ABTestingDash.png" alt="ABTestingDash.png" width="800">
 </p>
 
-Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1)
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDashboard/Dashboard2)
 
 To practice skills in A/B testing, I utilized a dataset designed for this purpose and created a fictional backstory for the company I will analyze.
 ### ChicBeads
@@ -24,7 +24,7 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 2. Visualize Data ([ab-testing-project.ipynb](https://github.com/johannaschmidle/ABTesting-FashionCampaign/blob/main/ab-testing-project.ipynb))
 3. Statistical Tests + Hypothesis Testing (same file as above)
    - (Mann-Whitney U Test/ Two-Sample T-Test, Pairwise Tests) 
-4. Create Dashboard ([Tableau Dashboard](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1))
+4. Create Dashboard ([Tableau Dashboard](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDashboard/Dashboard2))
    
 ## Metrics and Dimensions
 - Number of purchases
