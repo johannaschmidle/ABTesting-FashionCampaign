@@ -1,6 +1,6 @@
 # A/B Testing for E-Commerce Fashion Brand
 <p align="center">
-    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="800">
+    <img src="ABTestingDashboard.png" alt="ABTestingDash.png" width="800">
 </p>
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1)
