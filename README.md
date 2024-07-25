@@ -1,4 +1,10 @@
 # A/B Testing for E-Commerce Fashion Brand
+<p align="center">
+    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="800">
+</p>
+
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1)
+
 To practice skills in A/B testing, I utilized a dataset designed for this purpose and created a fictional backstory for the company I will analyze.
 ### ChicBeads
 ChicBeads, a sister store to a popular online fashion retailer known for its trendy and affordable clothing, specializes in creating colorful beaded jewelry that complements many of the outfits sold at its sister store. Each accessory is sold for $5.00 (USD). The company has been performing well but decided to optimize its advertising strategies to boost online sales. To achieve this, they launched an A/B testing campaign to identify the most effective ways to reach and convert their target audience.
@@ -7,12 +13,6 @@ ChicBeads, a sister store to a popular online fashion retailer known for its tre
 - **Test Campaign:** The test campaign experimented with video ads showcasing short fashion shows and styling tips from influencers.
   
 **Hypothesis:** The Test Campaign will lead to a higher number of purchases compared to the Control Campaign due to different marketing strategies.
-
-<p align="center">
-    <img src="ABTestingDash.png" alt="ABTestingDash.png" width="900">
-</p>
-
-Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDash/Dashboard1)
 
 ## Motivation
 **Goal:** Increase the number of purchases through the Test Campaign compared to the Control Campaign.  
