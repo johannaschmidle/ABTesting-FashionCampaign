@@ -1,9 +1,8 @@
 # A/B Testing for E-Commerce Fashion Brand
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDashboard/Dashboard2)
 <p align="center">
     <img src="ABTestingDash.png" alt="ABTestingDash.png" width="800">
 </p>
-
-Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/ChicBeadsAB-TestingDashboard/Dashboard2)
 
 To practice skills in A/B testing, I utilized a dataset designed for this purpose and created a fictional backstory for the company I will analyze.
 ### ChicBeads
